@@ -18,7 +18,7 @@
 
  <h1>Tecnologias</h1>
  <h2>Avançado</h2>
- <div display="flex" gap="10px">
+ <div width="100vw" display="flex" gap="10px" justify-content="space-between">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="60px" height="60px" /> 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="60px" height="60px"/> 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60px" height="60px" />
