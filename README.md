@@ -19,10 +19,8 @@
 - Hoje trabalho com vendas, e estou buscando minha primeira colocação no mercado de T.I
 
 - Meu plano de carreira é trabalhar como um Desenvolvedor Full Stack
-<div width="60px">
-  <i class="fa-brands fa-whatsapp"></i> (11) 99768-2800
-</div>
 
+- Whatsapp: (11) 99768-2800
 
  <h1>Tecnologias</h1>
  <h2>Avançado</h2>
