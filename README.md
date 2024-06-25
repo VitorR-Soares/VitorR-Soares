@@ -4,7 +4,7 @@
 
 ### Olá! Meu nome é Vitor! Seja bem-vindo ao meu perfil no GitHub. 👋
   <h1>Sobre Mim</h1> 
-  Sou estudante da área de TI, buscando
+  Tenho 21 anos, sou estudante da área de TI, e busco
   minha primeira colocação no Mercado de
   Trabalho. Assim que finalizei o Ensino Médio,
   ingressei na USP no curso de Ciências
