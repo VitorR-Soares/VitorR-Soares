@@ -15,6 +15,14 @@
 - Hoje trabalho com vendas, e estou buscando minha primeira colocação no mercado de T.I
 
 - Meu plano de carreira é trabalhar como um Desenvolvedor Full Stack
+
+ <h1>Tecnologias</h1>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+          
+
+        
  
+          
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorR-Soares&layout=donut)](https://github.com/VitorR-Soares/github-readme-stats)
