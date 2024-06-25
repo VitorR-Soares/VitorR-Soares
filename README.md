@@ -17,7 +17,12 @@
 - Meu plano de carreira é trabalhar como um Desenvolvedor Full Stack
 
  <h1>Tecnologias</h1>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40px" height="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40px" height="40px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40px" height="40px"/> 
+ <h2>Avançado</h2>
+ <div display="flex">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40px" height="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40px" height="40px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40px" height="40px"/> 
+ </div>
+ 
+ 
  
  
           
