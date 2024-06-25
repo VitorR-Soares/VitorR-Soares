@@ -18,8 +18,9 @@
 
  <h1>Tecnologias</h1>
  <h2>Avançado</h2>
- <div display="flex">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40px" height="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40px" height="40px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40px" height="40px"/> 
+ <div display="flex" gap="10px">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40px" height="40px" /> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40px" height="40px"/> 
  </div>
  
  
