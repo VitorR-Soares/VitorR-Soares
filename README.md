@@ -15,8 +15,10 @@
 - Hoje trabalho com vendas, e estou buscando minha primeira colocação no mercado de T.I
 
 - Meu plano de carreira é trabalhar como um Desenvolvedor Full Stack
+<div width="60px">
+  - ![whatsapp  width="60px"](https://github.com/VitorR-Soares/VitorR-Soares/assets/160509234/ae20f676-f137-4afa-a9c1-478132ec8dbc) Whatsapp: (11) 99768-2800
+</div>
 
-- ![whatsapp  width="60px"](https://github.com/VitorR-Soares/VitorR-Soares/assets/160509234/ae20f676-f137-4afa-a9c1-478132ec8dbc) Whatsapp: (11) 99768-2800
 
  <h1>Tecnologias</h1>
  <h2>Avançado</h2>
