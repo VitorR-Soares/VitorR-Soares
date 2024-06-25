@@ -16,6 +16,8 @@
 
 - Meu plano de carreira é trabalhar como um Desenvolvedor Full Stack
 
+- ![whatsapp](https://github.com/VitorR-Soares/VitorR-Soares/assets/160509234/ae20f676-f137-4afa-a9c1-478132ec8dbc) Whatsapp: (11) 99768-2800
+
  <h1>Tecnologias</h1>
  <h2>Avançado</h2>
  <div  display="flex" gap="20px">
@@ -35,12 +37,5 @@
  <a href = "mailto: vitorratollasoares@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://instagram.com/ratollasoares_19" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
- 
- 
-          
-
-        
- 
-          
-
+ <h1>Ranking de Linguagens no GitHub</h1>       
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorR-Soares&layout=donut)](https://github.com/VitorR-Soares/github-readme-stats)
